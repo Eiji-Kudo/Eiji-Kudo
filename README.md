@@ -29,3 +29,5 @@ A little background of me:
 - 慶應義塾大学理工学部情報工学科卒
 - TOEIC 900
 - 宅建
+
+自分にお仕事ください
