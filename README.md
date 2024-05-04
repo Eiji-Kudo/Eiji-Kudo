@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 慶應義塾大学理工学部情報工学科卒
-- TOEIC 900
-- 宅建
+Please Talk to me About
 
 - React Native
 - Expo
+- Next.js
 - Firebase
 - Ruby on Rails
 - AWS
-- Next.js
 
-https://twitter.com/eiji_tech_
+A little background of me:
+
+- 慶應義塾大学理工学部情報工学科卒
+- TOEIC 900
+- 宅建
