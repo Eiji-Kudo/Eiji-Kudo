@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 慶應義塾大学理工学部情報工学科卒
+- TOEIC 900
+- 宅建
+
+- React Native
+- Expo
+- Firebase
+- Ruby on Rails
+- AWS
+- Next.js
+
+https://twitter.com/eiji_tech_
