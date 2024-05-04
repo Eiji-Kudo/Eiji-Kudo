@@ -30,4 +30,4 @@ A little background of me:
 - TOEIC 900
 - 宅建
 
-自分にお仕事ください
+自分にできるお仕事あったらください
