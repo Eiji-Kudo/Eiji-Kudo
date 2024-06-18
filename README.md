@@ -15,4 +15,4 @@ My skills:
 - TOEIC 900/TOEFL 95
 - 宅建
 
-If you have any job opportunities for me, please let me know.
+If you have any job opportunities for me, please let me know!
