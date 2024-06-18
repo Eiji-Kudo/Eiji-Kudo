@@ -1,21 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Eiji-Kudo/Eiji-Kudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Please Talk to me About
+I have developed apps with:
 
 - React Native
 - Expo
@@ -24,10 +9,10 @@ Please Talk to me About
 - Ruby on Rails
 - AWS
 
-A little background of me:
+My skills:
 
-- 慶應義塾大学理工学部情報工学科卒
-- TOEIC 900
+- Graduated from Keio University, Faculty of Science and Technology, Department of Information and Computer Science
+- TOEIC 900/TOEFL 95
 - 宅建
 
-自分にできるお仕事あったらください
+If you have any job opportunities for me, please let me know.
