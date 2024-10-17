@@ -5,13 +5,13 @@ I have developed apps with:
 - React Native
 - Expo
 - Next.js
-- Firebase
+- Firebase/Firestore
 - Ruby on Rails
 - AWS
 
 My skills:
 
-- Graduated from Keio University, Faculty of Science and Technology, Department of Information and Computer Science
+- Graduated from Keio University with Computer Science major
 - TOEIC 900/TOEFL 95
 - 宅建
 
