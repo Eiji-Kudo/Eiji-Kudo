@@ -11,7 +11,7 @@ I have developed apps with:
 
 My skills:
 
-- Graduated from Keio University with Computer Science major
+- Computer Science major (Keio University 2021)
 - TOEIC 900/TOEFL 95
 - 宅建
 
