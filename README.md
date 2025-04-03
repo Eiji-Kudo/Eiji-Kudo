@@ -5,13 +5,16 @@ I have developed apps with:
 - React Native
 - Expo
 - Next.js
-- Firebase/Firestore
 - Ruby on Rails
-- AWS
+- Java/Kotlin (Backend)
+= AWS
+- Firebase/Firestore
+- Supabase
+
 
 My skills:
 
-- Computer Science major (Keio University 2021)
+- Computer Science degree (Keio University 2021)
 - TOEIC 900/TOEFL 95
 - 宅建
 
