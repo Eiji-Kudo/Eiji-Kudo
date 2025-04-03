@@ -7,7 +7,7 @@ I have developed apps with:
 - Next.js
 - Ruby on Rails
 - Java/Kotlin (Backend)
-= AWS
+- AWS
 - Firebase/Firestore
 - Supabase
 
