@@ -2,11 +2,13 @@
 
 I have developed apps with:
 
-front end
+frontend
 - React Native
   - Expo
 - Next.js
-back end
+
+  
+backend
 - Ruby on Rails
 - Java/Kotlin (Backend)
 
