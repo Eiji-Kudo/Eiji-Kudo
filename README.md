@@ -2,15 +2,20 @@
 
 I have developed apps with:
 
+front end
 - React Native
-- Expo
+  - Expo
 - Next.js
+back end
 - Ruby on Rails
 - Java/Kotlin (Backend)
+
+infrastracture
 - AWS
+
+tools
 - Firebase/Firestore
 - Supabase
-
 
 My qualifications:
 
