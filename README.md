@@ -10,7 +10,7 @@ frontend
   
 backend
 - Ruby on Rails
-- Java/Kotlin (Backend)
+- Java/Kotlin
 
 infrastracture
 - AWS
