@@ -14,6 +14,10 @@ backend
 
 infrastracture
 - AWS
+- k8s
+- Argo
+- Helm
+- Terraform
 
 tools
 - Firebase/Firestore
