@@ -25,7 +25,7 @@ tools
 
 My qualifications:
 
-- Computer Science degree (Keio University 2021)
+- Computer Science BEng (Keio University 2021)
 - TOEIC 900/TOEFL 95
 - 宅建
 
