@@ -15,7 +15,7 @@ backend
 infrastracture
 - AWS
 - k8s
-- Argo
+- Argo CD
 - Helm
 - Terraform
 
