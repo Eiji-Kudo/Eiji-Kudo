@@ -1,16 +1,11 @@
 ### Hi there 👋
 
 I have developed apps with:
-
-frontend
-- React Native
-  - Expo
-- Next.js
-
   
 backend
-- Ruby on Rails
 - Java/Kotlin
+- TypeScript (Hono)
+- Ruby on Rails
 
 infrastracture
 - AWS
@@ -19,9 +14,16 @@ infrastracture
 - Helm
 - Terraform
 
+frontend
+- React Native
+  - Expo
+- Next.js
+- Tanstack Router
+
 tools
-- Firebase/Firestore
 - Supabase
+- Firebase/Firestore
+
 
 My qualifications:
 
