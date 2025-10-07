@@ -3,7 +3,7 @@
 I have developed apps with:
   
 backend
-- Java/Kotlin
+- Kotlin
 - TypeScript (Hono)
 - Ruby on Rails
 
