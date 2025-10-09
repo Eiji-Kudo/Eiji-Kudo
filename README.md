@@ -15,10 +15,13 @@ infrastracture
 - Terraform
 
 frontend
-- React Native
-  - Expo
 - Next.js
 - Tanstack Router
+
+mobile
+- React Native (iOS / Android)
+  - Expo (Managed / Bared)
+  - Vanilla React Native
 
 tools
 - Supabase
