@@ -3,8 +3,8 @@
 I have developed apps with:
   
 backend
-- Kotlin (Quarkus)
 - TypeScript (Hono)
+- Kotlin (Quarkus)
 - Ruby (Rails)
 
 infrastracture
