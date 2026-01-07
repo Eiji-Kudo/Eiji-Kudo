@@ -17,6 +17,7 @@ infrastracture
 frontend
 - Next.js
 - Tanstack Router
+- React Router
 
 mobile
 - React Native (iOS / Android)
