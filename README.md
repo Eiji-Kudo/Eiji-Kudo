@@ -15,9 +15,9 @@ infrastracture
 - Terraform
 
 frontend
-- Next.js
 - Tanstack Router
 - React Router
+- Next.js
 
 mobile
 - React Native (iOS / Android)
