@@ -9,10 +9,12 @@ backend
 
 infrastracture
 - AWS
+- GCP
 - k8s
 - Argo CD
 - Helm
 - Terraform
+- ECS
 
 frontend
 - Tanstack Router
