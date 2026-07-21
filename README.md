@@ -1,20 +1,19 @@
 ### Hi there 👋
 
 I have developed apps with:
-  
-backend
-- TypeScript (Hono / Nest.js)
-- Kotlin (Quarkus)
-- Ruby (Rails)
 
 infrastracture
 - AWS
 - GCP
 - k8s
-- Argo CD
 - Helm
 - Terraform
 - ECS
+  
+backend
+- TypeScript (Hono / Nest.js)
+- Kotlin (Quarkus)
+- Ruby (Rails)
 
 frontend
 - Tanstack Router
@@ -23,13 +22,6 @@ frontend
 
 mobile
 - React Native (iOS / Android)
-  - Expo (Managed / Bared)
-  - Vanilla React Native
-
-tools
-- Supabase
-- Firebase/Firestore
-
 
 My qualifications:
 
